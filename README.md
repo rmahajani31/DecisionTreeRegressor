@@ -1,2 +1,2 @@
-# DecisionTreeRegressor
-A decision tree for regression tasks
+# DecisionTreeClassifier
+A Decision Tree for classification problems
